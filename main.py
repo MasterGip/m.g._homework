@@ -32,7 +32,7 @@ class User:
     def post(current_user, message):
         print(message)
 
-
+# поменяй функции и методы местами
 # user1 = User('Admin')
 # user2 = User('User')
 # user3 = User('ReadOnly')
